@@ -1,8 +1,9 @@
 # 📱 ControleSe
+Trabalho desenvolvido na disciplina **Prática de Desenvolvimento de Dispositivos Móveis** do curso de **Sistemas de Informação**.
 
 Aplicativo mobile desenvolvido em **Flutter** para controle financeiro pessoal.  
 O usuário pode se cadastrar, fazer login e gerenciar suas finanças de forma simples e prática.
-
+Trabalho desenvolvido na disciplina de Pratica de desenvolvimento de dispositivos moveis no curso de Sistemas de Informação
 ---
 
 ## ✨ Funcionalidades
