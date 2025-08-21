@@ -1,16 +1,31 @@
-# controlese
+# 📱 ControleSe
 
-A new Flutter project.
+Aplicativo mobile desenvolvido em **Flutter** para controle financeiro pessoal.  
+O usuário pode se cadastrar, fazer login e gerenciar suas finanças de forma simples e prática.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Funcionalidades
+- 🔐 **Autenticação** com e-mail e senha  
+- 📝 **Cadastro de usuários**  
+- 📊 **Controle de receitas e despesas**  
+- 🚀 **Navegação simplificada** com GetX  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tecnologias utilizadas
+- [Flutter](https://flutter.dev/)  
+- [Dart](https://dart.dev/)  
+- [GetX](https://pub.dev/packages/get)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📷 Prévia do app
+
+Tela de login | Tela de cadastro | 
+---|---|
+<img width="378" height="783" alt="image" src="https://github.com/user-attachments/assets/6dd24d25-174a-4b7e-9966-a2140861f810" />
+
+<img width="383" height="814" alt="image" src="https://github.com/user-attachments/assets/61082e00-dd19-497d-aacb-89cc6f187541" />
+
+
