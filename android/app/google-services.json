@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "448442146402",
+    "project_id": "controlese2",
+    "storage_bucket": "controlese2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448442146402:android:11d069c4641769a7047b3b",
+        "android_client_info": {
+          "package_name": "com.example.controlese"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448442146402-vqhadbckp43u3lkdb8a6g9g3do590eii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeMcYeUixg-fUF4hmWoQo7GPSgCRT6yeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448442146402-vqhadbckp43u3lkdb8a6g9g3do590eii.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "448442146402-r85ru24stsljdu891fo11b8t2v9opnin.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.controlese"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
